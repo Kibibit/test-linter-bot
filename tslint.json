@@ -7,13 +7,14 @@
         "no-unused-expression": true
     },
     "rules": {
+        "semicolon": [true, "always"],
         "trailing-comma": [true, {"multiline": "never", "singleline": "never"}],
         "eofline": false,
         "quotemark": [
             true,
             "single"
         ],
-        "indent": false,
+        "indent": [true, "spaces", 2],
         "member-access": [
             false
         ],
