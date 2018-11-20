@@ -7,6 +7,6 @@ export class AppService {
     return 'Hello World!';
   }
 }
-
+    const indented = 'bad!';
 var nice = 'nice';
 //lollol
